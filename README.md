@@ -1,7 +1,12 @@
-# Starter Web Repo
+## Introduction
 
-This repository is for showing how Git and GitHub work
+Git and Github exercises
 
 ## Purpose
-I have added a new line here.
-Sample website with plenty of files for demos
+
+To understand Git and Github and have an hands-on experience.
+
+## Deployment
+
+
+## Exercises
