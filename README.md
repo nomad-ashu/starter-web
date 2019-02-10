@@ -7,6 +7,6 @@ Git and Github exercises
 To understand Git and Github and have an hands-on experience.
 
 ## Deployment
-
+We are follwing the exercises from course.
 
 ## Exercises
