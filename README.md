@@ -16,7 +16,7 @@ The exercises will be addded later.
 This is for the exerices.
 
 #How To Contribute
-
+Keep doing exercises.
 
 ## Copyright
 2018. Git Training
