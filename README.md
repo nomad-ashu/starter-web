@@ -14,3 +14,6 @@ The exercises will be addded later.
 
 ## Temporary
 This is for the exerices.
+
+## Copyright
+2018. Git Training
