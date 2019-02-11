@@ -1,5 +1,7 @@
 ## Introduction
-Git and Github exercises
+Git and Github exercises. 
+
+## Extra
 
 ## Purpose
 To understand Git and Github and have an hands-on experience.
