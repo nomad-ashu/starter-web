@@ -17,4 +17,4 @@ This is for the exerices.
 Keep doing exercises.
 
 ## Copyright
-2018. Git Training
+2018. Git Training. All rights reserved.
