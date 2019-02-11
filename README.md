@@ -15,5 +15,8 @@ The exercises will be addded later.
 ## Temporary
 This is for the exerices.
 
+#How To Contribute
+
+
 ## Copyright
 2018. Git Training
