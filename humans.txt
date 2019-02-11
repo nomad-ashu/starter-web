@@ -2,14 +2,11 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
     Ashutosh Vijay
 
 # THANKS
-
     Almost Done
 
 # TECHNOLOGY COLOPHON
-
     HTML5, CSS3
     jQuery, Modernizr
