@@ -8,5 +8,5 @@
     Almost Done
 
 # TECHNOLOGY COLOPHON
-    HTML5, CSS3
+    HTML5, CSS3, Python
     jQuery, Modernizr
